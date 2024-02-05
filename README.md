@@ -5,6 +5,9 @@
 
 Strategic Assessment and Investment Feasibility: An In-depth Revenue Analysis of Superstore for Potential Investment 
 
+![Dashboard Superstore](https://github.com/fireball777/Superstore-Investment-Analysis/assets/147949298/d8e0291d-9abd-4593-be05-b7c800d92275)
+
+
 ### Problem Statement
 
 Superstore is a retail store with an increasingly growing profit rate, Superstore focuses on products such as phones, chairs, tables, binders, accessories and the like. Superstore has sales of approximately 2.3 million and a profit of 286,000. Moreover, Walmart is a retail store interested in investing in Superstore, to move with this venture, a consultant team was formed to conduct a revenue analysis on Superstore. The revenue analysis consists of a correlation analysis between profit and discount, sales in subcategories, correlation between sales and years, and average delivery days by shipping mode. The consultant team is to determine whether Superstore is a good investment opportunity and provide insights into the company's revenue analysis as concerns to the performance of Superstore.
