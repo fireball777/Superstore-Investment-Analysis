@@ -1,12 +1,13 @@
 # Superstore Investment Analysis
 
+
 ### Project Overview
 
 Strategic Assessment and Investment Feasibility: An In-depth Revenue Analysis of Superstore for Potential Investment 
 
 ### Problem Statement
 
-Superstore is a retail store with an increasingly growing profit rate, Superstore focuses on products such as phones, chairs, tables, binders, accessories and the like. Superstore has sales of approximately 2.3 million and a profit of 286,000. Moreover, Walmart is a retail store interested in investing in Superstore, to move with this venture, a consultant team was formed to conduct a revenue analysis on Superstore. The revenue analysis consists of a correlation analysis between profit and discount, sales in subcategories, correlation between sales and years, and average delivery days by shipping mode. The consultant team is to determine whether Superstore is a good investment opportunity and provide insights into the company's revenue analysis as concerns to the performance of superstore.
+Superstore is a retail store with an increasingly growing profit rate, Superstore focuses on products such as phones, chairs, tables, binders, accessories and the like. Superstore has sales of approximately 2.3 million and a profit of 286,000. Moreover, Walmart is a retail store interested in investing in Superstore, to move with this venture, a consultant team was formed to conduct a revenue analysis on Superstore. The revenue analysis consists of a correlation analysis between profit and discount, sales in subcategories, correlation between sales and years, and average delivery days by shipping mode. The consultant team is to determine whether Superstore is a good investment opportunity and provide insights into the company's revenue analysis as concerns to the performance of Superstore.
 This report accrues the findings of the consultancy firm, the report will focus on interpreting the results of the dashboard created using Power BI and the Superstore Excel sheet including its various variables. It will use the SWOT theoretical framework to create an academic foundation and strong basis for the report. The SWOT analysis will provide an internal strength and weakness and external opportunities and threats analysis to ascertain and determine the viability of investing in Superstore (Gurl, 2017).
 
 ### Data Source
@@ -54,7 +55,7 @@ WHERE cond = 2;
 
 ### Recommendations
 
-Recommendations for Superstore include optimisation of pricing strategies based on the observed correlation between discount and profit. Use data-driven insights to enhance product performance, particularly in high-performing categories like phones and chairs. Also, superstore could streamline the supply chain and inventory management based on delivery days analysis. The store can Implement dynamic delivery solutions, emphasising same-day delivery for top-selling categories. Then again, Superstore can tailor marketing initiatives to capitalise on strengths identified in the top subcategory sales and explore phased geographic expansion strategies targeting regions with growth potential. Finally, the store can establish a continuous monitoring framework with agile adaptation strategies whilst developing a robust investor communication plan with Walmart. Walmart is advised to consider a phased investment approach while strengthening superstore’s business processes.
+Recommendations for Superstore include optimisation of pricing strategies based on the observed correlation between discount and profit. Use data-driven insights to enhance product performance, particularly in high-performing categories like phones and chairs. Also, Superstore could streamline the supply chain and inventory management based on delivery days analysis. The store can Implement dynamic delivery solutions, emphasising same-day delivery for top-selling categories. Then again, Superstore can tailor marketing initiatives to capitalise on strengths identified in the top subcategory sales and explore phased geographic expansion strategies targeting regions with growth potential. Finally, the store can establish a continuous monitoring framework with agile adaptation strategies whilst developing a robust investor communication plan with Walmart. Walmart is advised to consider a phased investment approach while strengthening Superstore’s business processes.
 
 ### Limitations 
 
