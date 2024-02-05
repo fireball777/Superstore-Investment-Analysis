@@ -21,7 +21,7 @@ Data was sourced from a data repository from Kaggle: [click here](https://www.ka
 
 - Excel - Data cleaning
 - SQL Server - Data Analysis
-- Tableau - Data Visualisation 
+- PowerBI - Data Visualisation 
 
 ### Data Cleaning/Preparation
 
