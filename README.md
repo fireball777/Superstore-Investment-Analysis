@@ -31,11 +31,11 @@ In the initial data preparation stage the following actions were performed:
 
 EDA involves manipulating the data to answer important questions such as:
 
-- what is the correlation between profit and discount and how does it affect overall business 
-- what is the quantity Sold per year and what year has the most sales
-- when is the average delivery days by shipping mode
-- why is sales and profit low or high by year
-- what causes the percentage profit by certain states
+- What is the correlation between profit and discount and how does it affect overall business 
+- What is the quantity Sold per year and what year has the most sales
+- When is the average delivery days by shipping mode
+- Why is sales and profit low or high by year
+- What causes the percentage profit by certain states
 
 ### Data Analysis
 
@@ -48,9 +48,9 @@ WHERE cond = 2;
 
 ### Results / Findings
 
-1. higher discounts lead to short-term sale spikes but are detrimental to long-term profit
+1. Higher discounts lead to short-term sale spikes but are detrimental to long-term profit
 2. It is observed that there is a gradual upward turn in sales as the years go by
-3. potential challenges related to product availability on the shelves
+3. Potential challenges related to product availability on the shelves
 
 ### Recommendations
 
